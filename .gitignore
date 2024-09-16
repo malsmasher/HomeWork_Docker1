@@ -44,5 +44,5 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-./data
-./src
+.data/
+.src/
