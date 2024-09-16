@@ -21,6 +21,7 @@ build/
 out/
 .idea/
 data/
+src/
 
 ### NetBeans ###
 /nbproject/private/
